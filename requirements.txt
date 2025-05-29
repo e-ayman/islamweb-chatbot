@@ -1,0 +1,11 @@
+pandas
+requests
+beautifulsoup4
+lxml
+transformers
+torch
+tqdm
+pyngrok
+chromadb
+flask
+google-generativeai
